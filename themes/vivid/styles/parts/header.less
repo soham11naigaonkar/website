@@ -1,0 +1,57 @@
+header#main-header {
+  width: 100%;
+  padding-bottom: 0px;
+
+  div#logo {
+    width: 100%;
+    height: fit-content;
+    position: relative;
+    text-align: center;
+    margin-top: 6.5em;
+    margin-bottom: 8.25em;
+
+    a {
+      font-weight: 500;
+      color: @color-text-dark;
+      text-decoration: none;
+      position: relative;
+      font-size: 3.2em;
+      letter-spacing: -1px;
+      -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+      transition: all .1s linear;
+      display: block;
+      height: 1.5625em;
+      line-height: 1.5625em;
+      margin: 0 auto;
+      width: 280px;
+      width: fit-content;
+
+      &:hover,
+      &:active {
+        color: @color-primary;
+
+        &::after,
+        &:after {
+          width: 0;
+          margin-left: 0;
+          background: transparent;
+        }
+      }
+
+      &::after,
+      &:after {
+        content: " ";
+        position: absolute;
+        bottom: -30px;
+        left: 50%;
+        margin-left: -4rem;
+        background: @color-primary;
+        transition: all .1s linear;
+        width: 8rem;
+        height: 0.45rem;
+        border-radius: 2rem;
+        pointer-events: none;
+      }
+    }
+  }
+}
