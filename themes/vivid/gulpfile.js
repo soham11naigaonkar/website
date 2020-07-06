@@ -32,4 +32,4 @@ gulp.task("watch", () => {
 });
 
 gulp.task("build", gulp.series(["less"]));
-gulp.task("default", gulp.series(["build", "watch"]));
+gulp.task("default", gulp.series(["build"]));
