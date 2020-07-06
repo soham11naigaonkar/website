@@ -1,8 +1,8 @@
 ---
 
-title: ""
 date: {{ .Date }}
 draft: true
+title: ""
 author: ""
 
 ---
