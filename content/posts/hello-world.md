@@ -4,7 +4,7 @@ date: 2020-07-05T20:23:54+04:30
 draft: false
 shamsiDate: "۱۵ تیر ۱۳۹۹"
 slug: "hello-world"
-title: "سلام به دنیای کلمات"
+title: "سلام دنیا"
 author: "امیرحسین بقایی"
 
 ---
