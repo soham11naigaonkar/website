@@ -3,9 +3,9 @@
 date: 2020-07-06T19:33:11+04:30
 draft: false
 shamsiDate: "۱۶ تیر ۱۳۹۹"
-slug: "how-contribute"
 title: "چطور در این پروژه مشارکت کنیم؟"
 author: "امیرحسین بقایی"
+tags: ["عمومی"]
 
 ---
 

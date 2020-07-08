@@ -1,5 +1,21 @@
 baseURL = "https://sysengineering.ir/"
-languageCode = "en-us"
+languageCode = "fa"
 title = "جامعه طراحان سیستم"
-theme = "vivid"
-ignoreFiles = ["\\.less$"]
+theme = "bare"
+
+[taxonomies]
+  tag = "tags"
+  series = "series"
+
+[params]
+mainSections = ["posts"]
+author = "جامعه طراحان سیستم"
+repoLink = "https://github.com/Sys-Engineering"
+description = 'نشر تجربیات و دانش؛ اینجا کلمات بر تراشه‌ها سوار هستند.'
+disableAttribution = true
+postcss = false
+includeAuthorInTitle = true
+
+[[params.social]]
+icon = "github"
+url = "https://github.com/Sys-Engineering"

@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/Sys-Engineering/sys-engineering.github.io.git
 	branch = master
+[submodule "themes/bare"]
+	path = themes/bare
+	url = https://github.com/orf/bare-hugo-theme.git
