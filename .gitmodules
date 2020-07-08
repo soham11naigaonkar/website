@@ -4,4 +4,4 @@
 	branch = master
 [submodule "themes/bare"]
 	path = themes/bare
-	url = https://github.com/orf/bare-hugo-theme.git
+	url = https://github.com/Sys-Engineering/bare-hugo-theme.git
