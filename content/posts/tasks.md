@@ -5,6 +5,6 @@ draft: false
 shamsiDate: "۱۶ تیر ۱۳۹۹"
 title: "کارهای پیش‌رو"
 author: "امیرحسین بقایی"
-tags: ["عمومی"]
+tags: ["بک‌اند"]
 
 ---
