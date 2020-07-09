@@ -5,7 +5,7 @@ draft: false
 shamsiDate: "۱۵ تیر ۱۳۹۹"
 title: "سلام دنیا"
 author: "امیرحسین بقایی"
-tags: ["عمومی"]
+tags: ["بدون‌دسته"]
 
 ---
 
