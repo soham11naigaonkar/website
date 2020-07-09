@@ -1,5 +1,6 @@
 baseURL = "https://sysengineering.ir"
 languageCode = "fa"
+enableEmoji= true
 title = "جامعه طراحان سیستم"
 theme = "bare"
 
