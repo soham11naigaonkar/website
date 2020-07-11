@@ -3,6 +3,7 @@ languageCode = "fa"
 enableEmoji= true
 title = "جامعه طراحان سیستم"
 theme = "bare"
+enableRobotsTXT = true
 
 [taxonomies]
   tag = "tags"
