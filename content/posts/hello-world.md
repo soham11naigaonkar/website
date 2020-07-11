@@ -5,7 +5,7 @@ draft: false
 shamsiDate: "۲۱ تیر ۱۳۹۹"
 title: "نقطه آغاز "
 author: "امیرحسین بقایی"
-tags: ["بدون‌دسته"]
+tags: ["عمومی"]
 
 ---
 
@@ -34,6 +34,9 @@ tags: ["بدون‌دسته"]
 
 به قول خارجیا:
 
-> every journey begins with a single step
+>   {{< rawhtml >}}
+        <p dir="ltr">every journey begins with a single step</p>
+    {{< /rawhtml >}}
+
 
 امیدواریم بتونیم در گذر زمان، پلتفرم خوبی رو برای اجتماع محتواهای تخصصی فارسی ایجاد کنیم که این امر فقط با همیاری جامعه و کامیونیتی شدنیه. **پس منتظر اخبار و مقالات خوب از این سایت باشید.**  :rocket:
